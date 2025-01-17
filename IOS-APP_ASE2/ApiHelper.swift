@@ -12,7 +12,7 @@ struct ApiHelper {
             print("Invalid URL: \(url)")
             return nil
         }
-        
+        //test2
         //Test
         var request = URLRequest(url: url)
         request.httpMethod = method

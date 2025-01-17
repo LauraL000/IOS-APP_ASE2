@@ -12,6 +12,7 @@ struct IOS_APP_ASE2Tests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+        //test
     }
 
 }

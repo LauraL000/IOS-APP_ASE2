@@ -28,8 +28,6 @@
 		B5946D0D2D3A46CE00AB0403 /* IOS-APP_ASE2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS-APP_ASE2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5946D172D3A46CE00AB0403 /* IOS-APP_ASE2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS-APP_ASE2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5946D4C2D3A5ED100AB0403 /* IOS-APP_ASE2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "IOS-APP_ASE2.xcodeproj"; sourceTree = "<group>"; };
-		B5946D582D3A5ED500AB0403 /* IOS-APP_ASE2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "IOS-APP_ASE2.xcodeproj"; sourceTree = "<group>"; };
-		B5946D652D3A5ED700AB0403 /* IOS-APP_ASE2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "IOS-APP_ASE2.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -96,20 +94,6 @@
 			sourceTree = "<group>";
 		};
 		B5946D4D2D3A5ED100AB0403 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		B5946D592D3A5ED500AB0403 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		B5946D662D3A5ED700AB0403 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -223,14 +207,6 @@
 			productRefGroup = B5946CFE2D3A46CC00AB0403 /* Products */;
 			projectDirPath = "";
 			projectReferences = (
-				{
-					ProductGroup = B5946D662D3A5ED700AB0403 /* Products */;
-					ProjectRef = B5946D652D3A5ED700AB0403 /* IOS-APP_ASE2.xcodeproj */;
-				},
-				{
-					ProductGroup = B5946D592D3A5ED500AB0403 /* Products */;
-					ProjectRef = B5946D582D3A5ED500AB0403 /* IOS-APP_ASE2.xcodeproj */;
-				},
 				{
 					ProductGroup = B5946D4D2D3A5ED100AB0403 /* Products */;
 					ProjectRef = B5946D4C2D3A5ED100AB0403 /* IOS-APP_ASE2.xcodeproj */;
